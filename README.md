@@ -15,13 +15,15 @@ Weather data is stored in MongoDB using the `pymongo` library. The MongoDB Compa
 ## Data Retrieval and Storage
 The project fetches weather information for Paris from the OpenWeather API, appends a timestamp, and stores the data as a document in the MongoDB collection named "openweather."
 
+<img src="https://github.com/CatelloTheDataProjectManager/The-Weather-Today-In-Paris/blob/main/PyMongoData.png" width="600">
+
 ## Data Cleaning and Normalization
 The retrieved JSON data is normalized into a pandas DataFrame for easy analysis. The project focuses on cleaning and structuring the data for better readability and understanding. Date and temperature values are converted to appropriate formats.
 
 ## Data Visualization
 The final step involves visualizing key weather parameters such as temperature, feels-like temperature, minimum temperature, and maximum temperature. A bar chart is created using Seaborn and Matplotlib to present a clear overview of the day's weather in Paris.
 
-**Notebook:** [The Weather Today In Paris](https://github.com/CatelloTheDataProjectManager/The-Weather-Today-In-Paris/blob/main/The%20Weather%20Today%20In%20Paris.ipynb)
+**Jupyter Notebook:** [The Weather Today In Paris](https://github.com/CatelloTheDataProjectManager/The-Weather-Today-In-Paris/blob/main/The%20Weather%20Today%20In%20Paris.ipynb)
 
 Feel free to explore the code and documentation to understand the project's workflow better. Your feedback and contributions are highly valued! 🚀
 
