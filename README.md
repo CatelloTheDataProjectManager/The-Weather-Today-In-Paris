@@ -21,8 +21,13 @@ The retrieved JSON data is normalized into a pandas DataFrame for easy analysis.
 ## Data Visualization
 The final step involves visualizing key weather parameters such as temperature, feels-like temperature, minimum temperature, and maximum temperature. A bar chart is created using Seaborn and Matplotlib to present a clear overview of the day's weather in Paris.
 
+**Notebook:** [The Weather Today In Paris](https://github.com/CatelloTheDataProjectManager/The-Weather-Today-In-Paris/blob/main/The%20Weather%20Today%20In%20Paris.ipynb)
+
 Feel free to explore the code and documentation to understand the project's workflow better. Your feedback and contributions are highly valued! 🚀
 
-**Notebook:** [The Weather Today In Paris]()
+<img src="https://github.com/CatelloTheDataProjectManager/The-Weather-Today-In-Paris/blob/main/weather_temperatures_in_paris.png" width="600">
 
-**MongoDB Compass Screenshot:** [MongoDB Compass Visualization]()
+
+
+
+
