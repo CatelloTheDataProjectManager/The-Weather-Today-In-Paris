@@ -20,6 +20,10 @@ The project fetches weather information for Paris from the OpenWeather API, appe
 ## Data Cleaning and Normalization
 The retrieved JSON data is normalized into a pandas DataFrame for easy analysis. The project focuses on cleaning and structuring the data for better readability and understanding. Date and temperature values are converted to appropriate formats.
 
+###### (In this notebook, we explore techniques for handling nested JSON structures.But for a deeper dive into this topic, you can find additional details in the [Earthquake-Coordinates Project](https://github.com/CatelloTheDataProjectManager/Earthquake-Coordinates/blob/main/README.md)).
+
+
+
 ## Data Visualization
 The final step involves visualizing key weather parameters such as temperature, feels-like temperature, minimum temperature, and maximum temperature. A bar chart is created using Seaborn and Matplotlib to present a clear overview of the day's weather in Paris.
 
