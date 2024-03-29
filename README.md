@@ -9,6 +9,15 @@ The project leverages various Python libraries, including `requests`, `json`, `p
 ## OpenWeather API Connection
 To access real-time weather data, an OpenWeather API key is required. The project ensures a seamless connection by retrieving the key from a configuration file. Users are prompted if the key is missing, ensuring a smooth setup process.
 
+## NoSQL database solutions
+
+Database solutions that offer alternative approaches to data storage and management compared to traditional relational databases. The choice between MongoDB and HBase depends on the specific requirements of the application and the type of data being stored.
+
+- ***MongoDB*** is particularly well-suited for storing semi-structured data, where the schema can vary from document to document. Semi-structured data can take many forms, such as JSON documents, XML documents, or CSV files with varying numbers of columns.
+- Instead Sparse data is often stored in ***HBase***, where each row can have many columns, but only a small fraction of the columns may have values. HBase is optimized for sparse data, because it stores only the non-empty cells, which can result in significant space savings compared to traditional relational databases.
+
+###### (If you are interested in exploring a project that uses HBase database, you can check out the following link: [HBase Database Project](https://github.com/CatelloTheDataProjectManager/HBaseDatabase/blob/main/README.md)
+
 ## MongoDB Integration
 Weather data is stored in MongoDB using the `pymongo` library. The MongoDB Compass connection is established to retrieve and visualize stored data easily.
 
