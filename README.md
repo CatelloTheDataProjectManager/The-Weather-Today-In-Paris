@@ -9,7 +9,7 @@ The project leverages various Python libraries, including `requests`, `json`, `p
 ## OpenWeather API Connection
 To access real-time weather data, an OpenWeather API key is required. The project ensures a seamless connection by retrieving the key from a configuration file. Users are prompted if the key is missing, ensuring a smooth setup process.
 
-###### When we cannot use an API key to collect data, we explore other ways to gather the information we need. One such method is web scraping, which involves extracting data from websites., you can find additional details in the [Web Scraping using BeautifulSoup or Seleniums Project](https://github.com/CatelloTheDataProjectManager/Web_Scrapping/blob/main/README.md)).
+###### When we cannot use an API key to collect data, we explore other ways to gather the information we need. One such method is web scraping, which involves extracting data from websites., you can find additional details in the [Web Scraping using BeautifulSoup or Seleniums](https://github.com/CatelloTheDataProjectManager/Web_Scrapping/blob/main/README.md)).
 
 ## NoSQL database solutions
 
