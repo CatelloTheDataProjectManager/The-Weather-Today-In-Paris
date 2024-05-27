@@ -1,5 +1,7 @@
 # 🌬️ The Weather Today In Paris 🌡️
 
+[Jupyter Notebook](https://github.com/CatelloTheDataProjectManager/The-Weather-Today-In-Paris/blob/main/The%20Weather%20Today%20In%20Paris.ipynb)
+
 ## Project Overview
 Welcome to "The Weather Today In Paris" GitHub repository! This project provides a comprehensive look at the current weather in Paris by utilizing the OpenWeather API and storing the data in MongoDB. The primary goal is to retrieve, process, and visualize weather information in a user-friendly manner.
 
@@ -37,8 +39,6 @@ The retrieved JSON data is normalized into a pandas DataFrame for easy analysis.
 
 ## Data Visualization
 The final step involves visualizing key weather parameters such as temperature, feels-like temperature, minimum temperature, and maximum temperature. A bar chart is created using Seaborn and Matplotlib to present a clear overview of the day's weather in Paris.
-
-**Jupyter Notebook:** [The Weather Today In Paris](https://github.com/CatelloTheDataProjectManager/The-Weather-Today-In-Paris/blob/main/The%20Weather%20Today%20In%20Paris.ipynb)
 
 Feel free to explore the code and documentation to understand the project's workflow better. Your feedback and contributions are highly valued! 🚀
 
