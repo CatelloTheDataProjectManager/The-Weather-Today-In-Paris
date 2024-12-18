@@ -1,5 +1,7 @@
 # 🌬️ The Weather Today In Paris 🌡️
 
+<img src="https://github.com/CatelloTheDataProjectManager/The-Weather-Today-In-Paris/blob/main/mongodb.png" alt="MongoDB" width="250"/>
+
 [Jupyter Notebook](https://github.com/CatelloTheDataProjectManager/The-Weather-Today-In-Paris/blob/main/The%20Weather%20Today%20In%20Paris.ipynb)
 
 ## Project Overview
